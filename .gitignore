@@ -1,0 +1,8 @@
+.env
+session*
+__pycache__/
+post.jpg
+temp_pitch.png
+pitch1.jpeg
+pitch2.jpeg
+pitch3.jpeg
